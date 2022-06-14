@@ -25,7 +25,7 @@ The original project, found under mapanimation.js, showed a marker moving along 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To get this exercise to work, simply load the html file onto your browser. You'll see the map load along with the initial marker. Press the button "Show stops between BLA and Home" and you'll see the marker move along the bus stops. The foundation for this exercise is similar to that used in live bus tracker applications. 
+To get this exercise to work, simply load the HTML file onto your browser. You'll see the map load along with the initial marker. Press the button "Show stops between BLA and Home" and you'll see the marker move along the bus stops. The foundation for this exercise is similar to that used in live bus tracker applications. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
