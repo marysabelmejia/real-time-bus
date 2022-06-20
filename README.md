@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The original project, found under mapanimation.js, showed a marker moving along the stops of a bus route between MIT and Harvard. I updated the code (mapanimation - Modified.js) to move along the stops of Bus 28 from Boston Latin Academy (my alma mater) to the vicinty of my childhood home. I also changed the center location and the marker's initial location (from MIT to BLA). Additionally, I modified the style of the button (i.e. rounded edges, background color, text color).
+The original project, found under .mapanimation.js, showed a marker moving along the stops of a bus route between MIT and Harvard. I updated the code (.mapanimation - Modified.js) to move along the stops of Bus 28 from Boston Latin Academy (my alma mater) to the vicinty of my childhood home. I also changed the center location and the marker's initial location (from MIT to BLA). Additionally, I modified the style of the button (i.e. rounded edges, background color, text color).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
